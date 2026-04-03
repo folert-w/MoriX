@@ -1,0 +1,4 @@
+﻿flet
+psutil
+cryptography
+sqlite-utils
