@@ -1,1 +1,1 @@
-﻿# MoriX modules package
+"""Top-level package for MoriX modules."""
